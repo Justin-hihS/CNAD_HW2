@@ -5,9 +5,9 @@
 - 單元測試
 - GitHub Action 自動測試
 
-## 📁 Project Structure
+## Project Structure
 
-\`\`\`
+
 CNAD_HW2/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
@@ -18,7 +18,7 @@ CNAD_HW2/
 ├── main.py
 ├── test_main.py
 ├── README.md
-\`\`\`
+
 
 
 This project demonstrates GitHub collaboration workflow with:
